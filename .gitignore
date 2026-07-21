@@ -1,0 +1,157 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Compiled extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ==========================
+# Virtual Environment
+# ==========================
+.venv/
+venv/
+ENV/
+env/
+
+# ==========================
+# Environment Variables
+# ==========================
+.env
+.env.*
+!.env.example
+
+# ==========================
+# IDE
+# ==========================
+.vscode/
+.idea/
+
+# ==========================
+# Jupyter Notebook
+# ==========================
+.ipynb_checkpoints/
+
+# ==========================
+# Testing
+# ==========================
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# ==========================
+# Type Checkers
+# ==========================
+.mypy_cache/
+.pyre/
+.pytype/
+
+# ==========================
+# Logs
+# ==========================
+logs/
+*.log
+
+# ==========================
+# OS Files
+# ==========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================
+# SQLite Database
+# ==========================
+*.sqlite3
+*.db
+
+# ==========================
+# LangGraph
+# ==========================
+.langgraph_api/
+langgraph.db
+
+# ==========================
+# Agent Memory
+# ==========================
+memory/
+checkpoints/
+
+# ==========================
+# Vector Databases
+# ==========================
+chroma/
+chromadb/
+.faiss/
+faiss_index/
+lancedb/
+qdrant_storage/
+
+# ==========================
+# Temporary Files
+# ==========================
+temp/
+tmp/
+.cache/
+
+# ==========================
+# Secrets
+# ==========================
+secrets/
+credentials.json
+service_account.json
+
+# ==========================
+# Streamlit
+# ==========================
+.streamlit/secrets.toml
+
+# ==========================
+# Python Version
+# ==========================
+.python-version
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+
+# Environment Variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Outputs (optional)
+outputs/
+
+# Logs
+*.log
